@@ -1,6 +1,6 @@
 # Cya On The Road #
 
-Next-get Travel Tech
+Next-Gen Travel Tech - Built by Travellers for Travellers
 
 ### App ###
 
