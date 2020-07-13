@@ -1,6 +1,10 @@
 # Cya On The Road #
 
-Next-Gen Travel Tech - Built by Travellers for Travellers
+Cya On The Road is the next-gen travel tech and a marketplace for self-guided audio tours.
+
+Travellers can get authentic experiences crafted by locals, access details on their own phones and explore the unforgettable sights to undiscovered corners anytime at their own leisure.
+
+Travel planners can explore new revenue opportunities or expand existing businesses.
 
 ### App ###
 
