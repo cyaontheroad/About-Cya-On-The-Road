@@ -9,6 +9,7 @@ Travel planners can explore new revenue opportunities or expand existing busines
 ### App ###
 
 * iOS - https://apps.apple.com/app/cya-on-the-road/id1484836503
+* Android - https://play.google.com/store/apps/details?id=com.cyaontheroad.android
 
 ### Website ###
 
