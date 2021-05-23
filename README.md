@@ -15,6 +15,11 @@ Travel planners can explore new revenue opportunities or expand existing busines
 
 * http://www.cyaontheroad.com
 
+### Blog ###
+
+* http://blog.cyaontheroad.com
+
+
 ### Facebook ###
 
 * https://www.facebook.com/cyaontheroad
