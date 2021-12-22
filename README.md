@@ -1,11 +1,6 @@
 # Cya On The Road #
 
-We are a Sydney Australia based tech startup providing a cloud platform for the next generation self guided audio experiences.
-
-We empower individuals and businesses to focus on what they love - discovering and sharing, and leave the rest with us.
-
-We deliver the destination insights by turning mobile phones into a personal tour guide so every single one can explore locals favourite spots and hidden gems, from major cities to regional towns, at any time, at their own pace.
-
+Cya On The Road is a Sydney, Australia based tech company providing the leading cloud platform for next-gen travel experiences. We empower individuals and businesses to focus on what they love - discovering and sharing, and they can leave  the rest with us. We enable our partners to deliver destination insights by turning phones into AI tour guides so every single one can explore locals favourite spots and hidden gems, from major cities to regional towns, at their leisure and their pace.
 
 ### App ###
 
