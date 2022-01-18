@@ -1,6 +1,6 @@
 # Cya On The Road #
 
-Cya On The Road is a Sydney, Australia based tech company providing the leading cloud platform for next-gen travel experiences. We empower individuals and businesses to focus on what they love - discovering and sharing, and they can leave  the rest with us. We enable our partners to deliver destination insights by turning phones into AI tour guides so every single one can explore locals favourite spots and hidden gems, from major cities to regional towns, at their leisure and their pace.
+Cya On The Road, a tech company in Sydney, Australia, makes travel anytime, anywhere, for any length, possible with the leading virtual tour guide technologies.
 
 ### App ###
 
