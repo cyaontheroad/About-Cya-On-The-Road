@@ -4,9 +4,9 @@ Cya On The Road is Australia's #1 AI Tour Guide App & Platform. We make the 'con
 
 ### Products ###
 
-* iOS - https://apps.apple.com/app/cya-on-the-road/id1484836503
-* Android - https://play.google.com/store/apps/details?id=com.cyaontheroad.android
-* Web & Experience Builder https://www.cyaontheroad.com
+* iOS app - https://apps.apple.com/app/cya-on-the-road/id1484836503
+* Android app - https://play.google.com/store/apps/details?id=com.cyaontheroad.android
+* Web Homepage & Experience Builder https://www.cyaontheroad.com
 * Cya On The Road Experiences https://www.cyaontheroad.com/experiences
 * Cya On The Road Holiday Homes & Hotels https://www.cyaontheroad.com/hotels
 * Cya On The Road Holiday Flights https://www.cyaontheroad.com/flights
